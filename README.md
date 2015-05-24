@@ -17,5 +17,6 @@ This is the Marlin firmware 1.3.1 for Prusa i3 hephestos with heated bed enabled
   1. Install the arduino software IDE http://www.arduino.cc/en/Main/Software
   2. Select Tools -> Board -> Arduino Mega 2560 or your microcontroller 
   3. Select the correct serial port in Tools ->Serial Port 
-  4. Open Marlin.pde
-  5. Click the Upload button
+  4. Use Download zip button to download the firmware
+  5. Open Marlin.pde
+  6. Click the Upload button
