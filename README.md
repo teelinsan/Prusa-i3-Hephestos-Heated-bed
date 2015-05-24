@@ -2,7 +2,11 @@
 This is the Marlin firmware 1.3.1 for Prusa i3 hephestos with heated bed enabled
 ### PRUSA I3 HEPHESTOS HEATED BED UPGRADE GUIDE
 
-1)Buy an heated bed with a 100K thermistor and upgrade your power supply
+1)Buy 
+  
+  * [Heatbed](http://reprap.org/wiki/PCB_Heatbed) 
+  * 100K [Thermistor](http://reprap.org/wiki/Thermistor) 
+  * Upgrade your [Power Supply](http://reprap.org/wiki/Power_Supply) (MAKE SURE THAT HAS 10 MORE AMPS SPARE!!)
 
 2)Connect them as shown in figure 
 ![](http://reprap.org/mediawiki/images/thumb/6/6d/Rampswire14.svg/600px-Rampswire14.svg.png)
